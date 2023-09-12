@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NoteAditya
+- 👀 I Like Playing game, coding, coffee and Anime.
+- 🌱 I’m currently learning Python, C Lang ^_^
+- 💞️ I want to work on Open Source.
+- 📫 Reach me through github.. for now.
