@@ -2,4 +2,3 @@
 - 👀 I Like Playing game, coding, coffee and Anime.
 - 🌱 I’m currently learning Python ^_^
 - 💞️ I want to work on Open Source.
-- 📫 Reach me through github.. for now.
