@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @NoteAditya
 - 👀 I Like Playing game, coding, coffee and Anime.
-- 🌱 I’m currently learning Blockchain ^_^
-- Going to Become 100xdev
+- 🌱 I’m currently learning More Blockchain ^_^
+- Web3 dev -> Community Founder
